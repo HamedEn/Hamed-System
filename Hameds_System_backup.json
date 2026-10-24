@@ -1,0 +1,319 @@
+{
+  "settings": {},
+  "semesters": {
+    "sem_1792785412842": {
+      "id": "sem_1792785412842",
+      "name": "الفصل الأول 2027/2026",
+      "status": "حالي / نشط"
+    }
+  },
+  "courses": {
+    "crsmvmg9ntu8y5": {
+      "credits": "3",
+      "goal": "",
+      "id": "crsmvmg9ntu8y5",
+      "instructor": "د. صبا القواس",
+      "link": "",
+      "location": "كلية التكنولوجيا / مختبر 103",
+      "name": "مقدمة في البرمجة",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "end": "13:00",
+          "place": "كلية التكنولوجيا / مختبر 103",
+          "start": "11:30"
+        },
+        {
+          "day": 3,
+          "end": "13:00",
+          "place": "كلية التكنولوجيا / مختبر 103",
+          "start": "11:30"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "university"
+    },
+    "crsmvmgdf3m7l9": {
+      "credits": "3",
+      "goal": "",
+      "id": "crsmvmgdf3m7l9",
+      "instructor": "د. صبا القواس",
+      "link": "",
+      "location": "كلية التكنولوجيا / ط1 /ق5",
+      "name": "الممارسة المهنية HNC",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "end": "14:30",
+          "place": "كلية التكنولوجيا / ط1 /ق5",
+          "start": "13:00"
+        },
+        {
+          "day": 3,
+          "end": "14:30",
+          "place": "كلية التكنولوجيا / ط1 /ق5",
+          "start": "13:00"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "university"
+    },
+    "crsmvmgjowp4s1": {
+      "credits": "3",
+      "goal": "تمكين وحفظ والقرآن",
+      "id": "crsmvmgjowp4s1",
+      "instructor": "ش. راشد عنانزة",
+      "link": "",
+      "location": "مسجد أبي بكر الصديق",
+      "name": "القرآن الكريم",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "end": "07:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "06:20"
+        },
+        {
+          "day": 2,
+          "end": "07:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "06:20"
+        },
+        {
+          "day": 4,
+          "end": "07:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "06:20"
+        },
+        {
+          "day": 1,
+          "end": "07:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "06:20"
+        },
+        {
+          "day": 3,
+          "end": "07:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "06:20"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "personal"
+    },
+    "crsmvmgmqg8nwq": {
+      "credits": "3",
+      "goal": "",
+      "id": "crsmvmgmqg8nwq",
+      "instructor": "د. حمادة عبيدات",
+      "link": "",
+      "location": "شريعة / ق1",
+      "name": "اللغة الإنجليزية المستوى الأول B1. 2",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "end": "16:00",
+          "place": "شريعة / ق1",
+          "start": "14:30"
+        },
+        {
+          "day": 3,
+          "end": "16:00",
+          "place": "شريعة / ق1",
+          "start": "14:30"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "university"
+    },
+    "crsmvmgtita1cz": {
+      "credits": "3",
+      "goal": "مراجعة محاظرات الجامعة ",
+      "id": "crsmvmgtita1cz",
+      "instructor": "مراجعة شخصية",
+      "link": "",
+      "location": "مسجد أبي بكر الصديق",
+      "name": "مراجعة جميع مجاظرات اليوم",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "end": "23:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "19:30"
+        },
+        {
+          "day": 3,
+          "end": "23:00",
+          "place": "مسجد أبي بكر الصديق",
+          "start": "19:30"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "personal"
+    },
+    "crsmvmh0i4d2p3": {
+      "credits": "3",
+      "goal": "تطوير نفسي في لغة البرمجة Java والتحضير لها",
+      "id": "crsmvmh0i4d2p3",
+      "instructor": "برمجة أونلاين",
+      "link": "",
+      "location": "يوتيوب",
+      "name": "كورس برمجة JAVA",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "end": "08:00",
+          "place": "يوتيوب",
+          "start": "07:00"
+        },
+        {
+          "day": 2,
+          "end": "08:00",
+          "place": "يوتيوب",
+          "start": "07:00"
+        },
+        {
+          "day": 4,
+          "end": "08:00",
+          "place": "يوتيوب",
+          "start": "07:00"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "personal"
+    },
+    "crsmvmian90ngf": {
+      "credits": "3",
+      "goal": "البدء في التداول",
+      "id": "crsmvmian90ngf",
+      "instructor": "EA Trading",
+      "link": "",
+      "location": "يوتيوب",
+      "name": "كيف تبدأ في التداول",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "end": "09:00",
+          "place": "يوتيوب",
+          "start": "08:00"
+        },
+        {
+          "day": 2,
+          "end": "09:00",
+          "place": "يوتيوب",
+          "start": "08:00"
+        },
+        {
+          "day": 4,
+          "end": "09:00",
+          "place": "يوتيوب",
+          "start": "08:00"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "personal"
+    },
+    "crsmvmifj8r8wz": {
+      "credits": "3",
+      "goal": "تطوير اللغة الإنجليزية في الحياة اليومية والمهنية",
+      "id": "crsmvmifj8r8wz",
+      "instructor": "إبراهيم عادل",
+      "link": "",
+      "location": "يوتيوب / قناة طليق",
+      "name": "تطوير إنجليزي ",
+      "progress": 0,
+      "reminders": [
+        5,
+        10
+      ],
+      "schedule": [
+        {
+          "day": 0,
+          "end": "10:00",
+          "place": "يوتيوب / قناة طليق",
+          "start": "09:00"
+        },
+        {
+          "day": 2,
+          "end": "10:00",
+          "place": "يوتيوب / قناة طليق",
+          "start": "09:00"
+        },
+        {
+          "day": 4,
+          "end": "10:00",
+          "place": "يوتيوب / قناة طليق",
+          "start": "09:00"
+        }
+      ],
+      "semesterId": "sem_1792785412842",
+      "type": "personal"
+    }
+  },
+  "sessions": {
+    "tmmvmizjnwyod": {
+      "courseId": "crsmvmg9ntu8y5",
+      "date": "2026-10-24",
+      "id": "tmmvmizjnwyod",
+      "minutes": 1
+    }
+  },
+  "platforms": {
+    "plat_1792785832257": {
+      "category": "جامعية",
+      "desc": "",
+      "id": "plat_1792785832257",
+      "name": "UJ E-Learning",
+      "url": "https://elearning.ju.edu.jo/"
+    },
+    "plmvmj4s0f8np": {
+      "category": "جامعية",
+      "desc": "بوابة الطلاب في الجامعة الأردنية",
+      "id": "plmvmj4s0f8np",
+      "name": "UJ Students Registration",
+      "url": "https://ujapps.ju.edu.jo/regapp/"
+    },
+    "plmvmlaz7bal2": {
+      "category": "جامعية",
+      "desc": "منصة التعلم اللغة الإنجليزية في الجامعة",
+      "id": "plmvmlaz7bal2",
+      "name": "Cambradg One",
+      "url": "https://www.cambridgeone.org/login"
+    }
+  }
+}
